@@ -1,0 +1,2 @@
+
+ind=find(gx
